@@ -1,4 +1,4 @@
-# Answering questions about the NBA through statistical analysis.
+# Answering questions about the 2022 - 2023 NBA season through statistical analysis.
 
 Who is the best scorer in the NBA?
 
