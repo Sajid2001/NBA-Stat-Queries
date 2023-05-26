@@ -1,4 +1,4 @@
-# Answering questions about the NBA through statistical analysis
+# Answering questions about the NBA through statistical analysis.
 
 Who is the best scorer in the NBA?
 
