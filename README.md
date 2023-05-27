@@ -4,11 +4,7 @@ Who is the best scorer in the NBA?
 
 Who is the best defender in the NBA?
 
-Who is the best 3 point shooter in the NBA?
-
-Who is the best young player in the NBA?
-
-Who is the best playoff riser in the NBA?
+Who is the biggest playoff riser in the NBA?
 
 Who is the best player in the world?
 
