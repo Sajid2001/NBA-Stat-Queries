@@ -16,5 +16,7 @@ And much more...
 
 Regular Season Statistics Dashboard: https://public.tableau.com/app/profile/sajid.syed/viz/NBARegularSeasonStatsAnalysis/Dashboard2?publish=yes
 
+Playoff Statistics Dashboard: https://public.tableau.com/app/profile/sajid.syed/viz/NBAPlayoffStatsAnalysis/Dashboard1?publish=yes
+
 ![image](https://github.com/Sajid2001/NBA-Stat-Queries/assets/60523377/746e4823-715b-4cc3-8b8a-cf2a3e5c187d)
 
