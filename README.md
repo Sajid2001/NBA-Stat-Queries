@@ -14,7 +14,7 @@ Who is the best player in the world?
 
 And much more...
 
-Tableau Link: Coming soon....
+Regular Season Statistics Dashboard: https://public.tableau.com/app/profile/sajid.syed/viz/NBARegularSeasonStatsAnalysis/Dashboard2?publish=yes
 
 ![image](https://github.com/Sajid2001/NBA-Stat-Queries/assets/60523377/746e4823-715b-4cc3-8b8a-cf2a3e5c187d)
 
